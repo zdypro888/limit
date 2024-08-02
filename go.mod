@@ -1,3 +1,3 @@
 module github.com/zdypro888/limit
 
-go 1.20
+go 1.22
